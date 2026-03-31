@@ -1,1 +1,3 @@
-will fix once i find the yaml file. Missing somehow??
+#requirements.txt
+snowflake-snowpark-python
+streamlit
